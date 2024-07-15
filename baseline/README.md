@@ -24,6 +24,7 @@ https://syncandshare.lrz.de/dl/fiWmxMzsnrWyY3yAja85JE/lightning_logs.zip) and un
   - ```jupyter```
   - ```scipy```
   - ```tqdm```
+  - ```inpainting``` (for optional part)
 
 For example with conda and current CUDA version 11.7
 ```
