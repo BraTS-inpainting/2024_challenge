@@ -30,7 +30,6 @@ To measure the performance of the contributions, we will evaluate the quality of
 The above metrics are only evaluated in the regions that are to-be-inpainted (the ```mask.nii.gz``` file).
 
 ## Requirements
-- Get the 
 - Download the training and/or validation dataset from [Synapse](https://www.synapse.org/Synapse:syn59809688) and unzip it into the root of this repository (```2024_challenge/```)
 - Download the trained baseline model from [here](
 https://syncandshare.lrz.de/dl/fiWmxMzsnrWyY3yAja85JE/lightning_logs.zip) and unzip it into ```2024_challenge/baseline/``` (this folder).
