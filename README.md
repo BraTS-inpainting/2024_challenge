@@ -1,3 +1,5 @@
+> ATTENTION: The BraTS inpainting challenge 2024 is finished. We want to thank everybody who contributed to this event. Please follow us [here](https://x.com/BraTS_inpaint), to stay updated regarding our BraTS inpainting challenges.
+
 # BraTS 2024 Inpainting Challenge (Local Synthesis)
 
 ![image](https://github.com/user-attachments/assets/12161475-45ab-4995-9f4d-2803fdf81285)
